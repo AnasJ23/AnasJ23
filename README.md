@@ -190,14 +190,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anasjamal&theme=tokyonight&column=6&no-bg=true&no-frame=false&margin-w=6"/>
-</div>
-
----
-
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:22d3ee,100:7c5cfc&height=120&section=footer" width="100%"/>
 
